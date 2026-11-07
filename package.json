@@ -1,0 +1,19 @@
+{
+  "name": "virtualbot",
+  "version": "4.0.0",
+  "description": "A lightweight Discord welcome and utility bot built with discord.js.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "check": "node --check bot.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0"
+  },
+  "author": "Iliya Smith",
+  "license": "UNLICENSED",
+  "private": false
+}
