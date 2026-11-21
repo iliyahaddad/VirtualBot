@@ -113,4 +113,4 @@ VirtualBot/
 
 ## License
 
-See [LICENSE](LICENSE) for the terms governing this project. The license file is included unchanged.
+See [LICENSE](LICENSE) for the terms governing this project, The license file is included unchanged.
